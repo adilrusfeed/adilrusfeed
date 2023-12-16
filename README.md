@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter
 
-- 💬 Ask me about Dart
+- 💬 Ask me about Flutter,HTML,CSS,JavaScript,Python,Dart
 
 - 📫 How to reach me adilrusfeed@gmail.com
 
