@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Adil Rusfeed</h1>
 <h3 align="center"> Flutter developer </h3>
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a Flutter Developer.
 
-- 💬 Ask me about Flutter,HTML,CSS,JavaScript,Python,Dart
+- 💬 Ask me about Flutter,HTML,CSS,JavaScript,Python
 
 - 📫 How to reach me adilrusfeed@gmail.com
 
