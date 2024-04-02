@@ -4,7 +4,7 @@
 
 - 🌱 I’m a Flutter Developer.
 
-- 💬 Ask me about Flutter,HTML,CSS,JavaScript,Python
+- 💬 Ask me about Flutter,HTML,CSS,JavaScript,Hive,Provider,FireBase...
 
 - 📫 How to reach me adilrusfeed@gmail.com
 
